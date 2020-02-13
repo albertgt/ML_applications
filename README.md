@@ -17,6 +17,12 @@ transportation policy data points, 130,000 flow and routing constraints, and mor
 150 initial scenarios and could identify $9.32 million (8 million Euros) in annual
 savings which could potentially be obtained by altering product flow in the supply
 chain. 
+<br>
+In spend analytics, the
+system will be able to cross-check every single invoice that’s entered, rapidly flag-up
+any errors or inconsistencies, and immediately alert the appropriate persons on both
+sides of the order, where it would usually take days if processed manually
+<br>
 (Applications of Machine Learning Techniques in Supply
 Chain Optimization
 Sandhya Makkar1 ,Nagarama Devi2 ,
