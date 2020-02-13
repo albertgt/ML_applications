@@ -1,6 +1,6 @@
 # ML_applications
 
-3.2 Best Routing Option
+3.2 Best Routing Option<br><br>
 A company that deals in energy management, automation solutions, spanning
 hardware, software, and services wanted to reduce the costs involved in their existing
 supply chain flows for 240 manufacturing facilities around the world and 110
